@@ -4,9 +4,19 @@ Ecommerce App
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+E-commerce app 
+ - Tools used in the application {Flutter , Php , MySql } 
+ - Features in the application 
+Language [ Arabic , English ] 
+Onboarding , signup , verifycode , login ,
+ forget password , home , 
+categories , items , search , favorite , cart , product details , settings , about. 
+ - Handling data view and errors 
+ - Animation 
+#Fluttet
+#Dart
+#php
+#MySql
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
