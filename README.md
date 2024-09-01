@@ -1,6 +1,6 @@
-# ecommercecourse
+# Ecommerce
 
-Ecommerce App
+Ecommerce is a commercial application for selling products online
 
 ## Getting Started
 
