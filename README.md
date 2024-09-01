@@ -7,9 +7,9 @@ Ecommerce is a commercial application for selling products online
  -  Supports multiple languages (Arabic, English)
  -  Includes features like onboarding, signup, login, password reset, home screen, categories, search, favorites, cart,
 product details, notifications, coupons, addresses, offers, settings, and error handling and animation.
- -  **Delivery App for this E-commerce App**
+   **Delivery App for this E-commerce App**:-
  -  Allows approving or canceling orders, and tracking order completion.
- -  **Admin App for this E-commerce App** 
+   **Admin App for this E-commerce App**:-
  -  Enables adding, editing, and deleting products and categories.
 
 
