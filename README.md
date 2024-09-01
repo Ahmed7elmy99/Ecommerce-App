@@ -2,17 +2,18 @@
 
 Ecommerce is a commercial application for selling products online
 
-## Getting Started
+## features
+– Full e-commerce application built using Flutter (with GetX), PHP, and MySQL
+– Supports multiple languages (Arabic, English)
+– Includes features like onboarding, signup, login, password reset, home screen, categories, search, favorites, cart,
+product details, notifications, coupons, addresses, offers, settings, and error handling and animation.
+o Delivery App for this E-commerce App
+– Allows approving or canceling orders, and tracking order completion.
+o Admin App for this E-commerce App 
+– Enables adding, editing, and deleting products and categories.
 
-E-commerce app 
- - Tools used in the application {Flutter , Php , MySql } 
- - Features in the application 
-Language [ Arabic , English ] 
-Onboarding , signup , verifycode , login ,
- forget password , home , 
-categories , items , search , favorite , cart , product details , settings , about. 
- - Handling data view and errors 
- - Animation 
+
+ -  
 #Fluttet
 #Dart
 #php
